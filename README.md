@@ -56,5 +56,4 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 ## output
-<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/b4cb23d9-564a-44b7-a92e-3a290063c505" />
-
+<img width="806" height="632" alt="image" src="https://github.com/user-attachments/assets/51680d0d-df32-4131-bcc0-176d9e6a224c" />
